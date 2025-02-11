@@ -1,6 +1,8 @@
 RENCANA KONTEN WPU
 
 - Video JAVA 
+  - es6
+  - frame
 - PHP
 - Interview
 - VLOG
